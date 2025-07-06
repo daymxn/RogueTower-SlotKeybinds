@@ -1,7 +1,7 @@
 <h1 align="center">
  <br>
  <br>
-<img width="256" src="/images/ctrl.png" alt="SlotKeybinds"/>
+<img width="256" src="https://raw.githubusercontent.com/daymxn/RogueTower-SlotKeybinds/refs/heads/main/images/ctrl.png" alt="SlotKeybinds"/>
  <br>
  <br>
  <br>
@@ -77,7 +77,7 @@ These keybinds are used for all the other features.
 By enabling the `TowerSelect` config option, you can use the [slot keybinds](#slot-keybinds) to enter build mode for
 the tower in the specified slot.
 
-![tower gui with keybind overlay](/images/keybinds.png)
+![tower gui with keybind overlay](https://raw.githubusercontent.com/daymxn/RogueTower-SlotKeybinds/refs/heads/main/images/keybinds.png)
 
 > [!TIP]
 > The overlay text can be toggled for both towers _and_ buildings via the `Towers` config option under the `Overlay`
@@ -99,7 +99,7 @@ section).
 By enabling the `UpgradeCardSelect` config option, you can use the [slot keybinds](#slot-keybinds) to automatically
 select an upgrade card when presented.
 
-![upgrade card gui with keybind overlay](/images/upgrade_card_keybinds.png)
+![upgrade card gui with keybind overlay](https://raw.githubusercontent.com/daymxn/RogueTower-SlotKeybinds/refs/heads/main/images/upgrade_card_keybinds.png)
 
 > [!TIP]
 > The overlay text can be toggled via the `UpgradeCards` config option under the `Overlay` section.
@@ -109,7 +109,7 @@ select an upgrade card when presented.
 By enabling the `MonsterCardSelect` config option, you can use the [slot keybinds](#slot-keybinds) to automatically
 select a monster card when presented.
 
-![monster card gui with keybind overlay](/images/monster_card_keybinds.png)
+![monster card gui with keybind overlay](https://raw.githubusercontent.com/daymxn/RogueTower-SlotKeybinds/refs/heads/main/images/monster_card_keybinds.png)
 
 > [!TIP]
 > The overlay text can be toggled via the `MonsterCards` config option under the `Overlay` section.
@@ -127,7 +127,7 @@ will banish the card instead of selecting it.
 To help signal that you're about to banish a card, the color of the card's image will fade to red while the banish key
 is held.
 
-![banish example gif](/images/banish_card.gif)
+![banish example gif](https://raw.githubusercontent.com/daymxn/RogueTower-SlotKeybinds/refs/heads/main/images/banish_card.gif)
 
 You can toggle this behavior via the `CardColors` config option under the `Banish` section. You can also set the color
 it fades to via the `Color` option.
