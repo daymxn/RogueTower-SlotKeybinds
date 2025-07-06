@@ -1,0 +1,9 @@
+﻿{
+  "name": "SlotKeybinds",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/daymxn/RogueTower-SlotKeybinds",
+  "description": "Configure keybinds for selecting towers, upgrade cards and monster cards- with a configurable overlay. Also offers integration with the BanishCards plugin.",
+  "dependencies": [
+    "bbepis-BepInEx_Rogue_Tower-5.4.1900"
+  ]
+}
