@@ -79,7 +79,7 @@ the tower in the specified slot.
 
 ![tower gui with keybind overlay](/images/keybinds.png)
 
-> [!NOTE]
+> [!TIP]
 > The overlay text can be toggled for both towers _and_ buildings via the `Towers` config option under the `Overlay`
 > section. 
 
@@ -101,7 +101,7 @@ select an upgrade card when presented.
 
 ![upgrade card gui with keybind overlay](/images/upgrade_card_keybinds.png)
 
-> [!NOTE]
+> [!TIP]
 > The overlay text can be toggled via the `UpgradeCards` config option under the `Overlay` section.
 
 ### [Select Monster Cards](#select-monster-cards)
@@ -111,7 +111,7 @@ select a monster card when presented.
 
 ![monster card gui with keybind overlay](/images/monster_card_keybinds.png)
 
-> [!NOTE]
+> [!TIP]
 > The overlay text can be toggled via the `MonsterCards` config option under the `Overlay` section.
 
 ### [Banish Upgrade Cards](#banish-upgrade-cards)
